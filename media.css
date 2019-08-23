@@ -1,0 +1,41 @@
+@media (max-width: 768px){
+	.brand{
+		margin: 0;
+		padding: 0;
+		width: 10%
+	}
+	.links{
+		font-size:10px ;
+		width: 82%;
+		
+		margin-left:60px ;
+		margin-top: -50px
+
+
+	}
+	
+	.container {
+    max-width: 620px;
+
+}
+
+.test{
+	max-width: 100%
+}
+ .test q{
+ 	max-width: 75%
+ }
+ .test p ,h3{
+ 	margin-left: -80px
+
+ }
+ 
+}
+
+@media (min-width: 769px) and (max-width: 991px){
+	 .test q{
+ 	max-width: 90%
+ }
+}
+	
+
